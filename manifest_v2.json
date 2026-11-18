@@ -1,0 +1,46 @@
+{
+  "item": {
+    "id": "game.uzens.zgc1996",
+    "restype": "quick_app",
+    "name": "中关村启示录1996",
+    "description": "根据1996年发布的DOS游戏《中关村启示录》改编与移植，欢迎加入中关村，创立自己的公司，建立属于自己的光荣篇章。除移植主体玩法外加入了大量作者的个人想法。由矩阵工作室制作。\n本作品与 AstroBox、小米及其他厂商 无关，《中关村启示录》相关的游戏名称、玩法、角色与美术版权归原制作公司 KINGSOFT Ltd.& Seasun Game Studio 所有。",
+    "preview": [
+      "media/30040.png",
+      "media/30033.png",
+      "media/30034.png",
+      "media/30035.png",
+      "media/30025.png",
+      "media/30026.png",
+      "media/30037.png",
+      "media/30041.png",
+      "media/30028.png",
+      "media/30036.png",
+      "media/30038.png",
+      "media/30027.png",
+      "media/30032.png",
+      "media/30079.png"
+    ],
+    "icon": "media/30080.png",
+    "cover": "media/30099.png",
+    "author": [
+      {
+        "name": "Benjimin2020",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/game.uzens.zgc1996.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/game.uzens.zgc1996.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
